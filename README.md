@@ -1,6 +1,6 @@
-# Homework1-F19
+# Homework 1
 Trevor Carpenter
-SID: 914827612
+SID: *********
 
 ## Fields
 
